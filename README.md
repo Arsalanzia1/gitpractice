@@ -22,7 +22,7 @@ import pandas as pd
 
 ## This is link
 
-[Google] (http:\\google.com)
+[Google](http:\\google.com)
 
 ## This is unordered list
 - red
@@ -32,12 +32,12 @@ import pandas as pd
 
 ## This is ordered list
 
-1 ali
-2 hamza
-3 ahmed
+1. ali
+2. hamza
+3. ahmed
 
 ## This is task list example
 
-[x] Breakfast
-[ ] Lunch
-[ ] Dinner
+- [x] Breakfast
+- [ ] Lunch
+- [ ] Dinner

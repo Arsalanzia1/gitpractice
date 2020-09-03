@@ -36,6 +36,14 @@ import pandas as pd
 2. hamza
 3. ahmed
 
+## This is nested list
+- RGB
+  - red
+  - green 
+  - blue
+- CYN
+  * white
+
 ## This is task list example
 
 - [x] Breakfast
